@@ -1,19 +1,17 @@
 PaccProject/Assembly-CSharp.csproj
 PaccProject/PaccProject.sln
-PaccProject/Assembly-CSharp.csproj
-PaccProject/PaccProject.sln
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/PaccProject/[Ll]ibrary/
-/PaccProject/[Tt]emp/
-/PaccProject/[Oo]bj/
-/PaccProject/[Bb]uild/
-/PaccProject/[Bb]uilds/
-/PaccProject/[Ll]ogs/
-/PaccProject/[Uu]ser[Ss]ettings/
+PaccProject/[Ll]ibrary/
+PaccProject/[Tt]emp/
+PaccProject/[Oo]bj/
+PaccProject/[Bb]uild/
+PaccProject/[Bb]uilds/
+PaccProject/[Ll]ogs/
+PaccProject/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -78,6 +76,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-PaccProject/Library/ArtifactDB
+
 PaccProject/Library/SourceAssetDB
 PaccProject/Library/ArtifactDB
